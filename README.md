@@ -1,5 +1,9 @@
 # 👋 Hey, I'm Mina Omil
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Computer+%26+Information+Student;Aspiring+Full+Stack+Developer;Still+Learning+%7C+Still+Building;Future+Software+Engineer" />
+</p>
+
 💻 Computer & Information Student  
 🚀 Aspiring Full Stack Developer (still learning, building every day)  
 🔥 Focused on becoming a professional Software Engineer
@@ -35,7 +39,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-
 ### 🧠 Core Concepts
 - Object-Oriented Programming (OOP)
 - Problem Solving Basics
@@ -53,8 +56,20 @@
 
 ## 📊 GitHub Stats
 
+<p align="center">
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=MinaOmil&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinaOmil&layout=compact&theme=tokyonight)
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MinaOmil&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
