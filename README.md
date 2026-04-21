@@ -1,89 +1,40 @@
-# 👋 Hey, I'm Mina Omil
+👋 Hey, I'm Mina Omil
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Computer+%26+Information+Student;Aspiring+Full+Stack+Developer;Still+Learning+%7C+Still+Building;Future+Software+Engineer" />
-</p>
-
-💻 Computer & Information Student  
-🚀 Aspiring Full Stack Developer (still learning, building every day)  
+</p>💻 Computer & Information Student
+🚀 Aspiring Full Stack Developer (still learning, building every day)
 🔥 Focused on becoming a professional Software Engineer
 
 ---
 
-<div align="center">
+<div align="center"><img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/></div>---
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
-
-</div>
-
----
-
-## ⚡ About Me
+⚡ About Me
 
 - 🎓 Studying Computer & Information Science
 - 🌱 Currently learning Full Stack Web Development
-- 🧠 Strong basics in programming & OOP (C# focused)
+- 💡 Strong basics in programming & OOP (C# focused)
 - 🔥 Still at the beginning, but building consistently
-- 🎯 Goal: Become a strong Full Stack Developer & build real-world apps
 
 ---
 
-## 🧠 Skills
+🛠️ Skills
 
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### 🧠 Core Concepts
-- Object-Oriented Programming (OOP)
-- Problem Solving Basics
-- Data Structures (Learning phase)
+- 💻 C / C# / Python
+- 🌐 HTML / CSS / JavaScript
+- 🧠 OOP Concepts
+- 🗄️ Basic Databases
 
 ---
 
-## 🚀 Projects
+📫 Contact Me
 
-- 🛒 Amazon Clone (Frontend using HTML/CSS)
-- 📚 University Assignments & Tasks
-- 🧪 Small practice projects in C & Python
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=MinaOmil&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinaOmil&layout=compact&theme=tokyonight)
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MinaOmil&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
+- 📧 menaomil70@gmail.com
+- 📱 01062655173
 
 ---
 
-## 📫 Contact Me
-
-- 📧 Email: menaomil70@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/mina-omil  
-
----
-
-<div align="center">
-
-💡 "Still learning, still building, still improving."
-
-🔥 Thanks for visiting my profile!
+<div align="center">⭐ Don't forget to check my repositories and give them a star!
 
 </div>
